@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TechNotification0"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="1"
+           time="2.147">
+  <properties />
+  
+            <testcase name="CancelleddispatchjobsforSS9" time="0.0" classname="service_AssignedJobEvent.TechNotification">
+          <skipped />
+    </testcase>
+  
+            <testcase name="run_cukes" time="2.133" classname="service_AssignedJobEvent.TechNotification" />
+                <testcase name="RescheduleddispatchjobsforSS9" time="0.014" classname="service_AssignedJobEvent.TechNotification" />
+      
+</testsuite>

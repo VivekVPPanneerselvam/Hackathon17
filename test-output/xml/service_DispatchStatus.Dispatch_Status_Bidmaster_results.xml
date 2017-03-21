@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Dispatch_Status_Bidmaster"
+           tests="8"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="8.697">
+  <properties />
+  
+  
+            <testcase name="Bidmaster_Status_Empty_CentralOffice" time="1.423" classname="service_DispatchStatus.Dispatch_Status_Bidmaster" />
+                <testcase name="Bidmaster_Status_ServiceTN" time="6.650" classname="service_DispatchStatus.Dispatch_Status_Bidmaster" />
+                <testcase name="Bidmaster_Status_Valid_ServiceTN" time="0.267" classname="service_DispatchStatus.Dispatch_Status_Bidmaster" />
+                <testcase name="Bidmaster_Status_Invalid_ServiceTN" time="0.108" classname="service_DispatchStatus.Dispatch_Status_Bidmaster" />
+                <testcase name="Bidmaster_Status_Empty_ServiceTN" time="0.066" classname="service_DispatchStatus.Dispatch_Status_Bidmaster" />
+                <testcase name="Bidmaster_Status_Invalid_DispatchType" time="0.044" classname="service_DispatchStatus.Dispatch_Status_Bidmaster" />
+                <testcase name="Bidmaster_Status_Invalid_CentralOffice" time="0.069" classname="service_DispatchStatus.Dispatch_Status_Bidmaster" />
+                <testcase name="Bidmaster_Status_Empty_DispatchType" time="0.070" classname="service_DispatchStatus.Dispatch_Status_Bidmaster" />
+      
+</testsuite>

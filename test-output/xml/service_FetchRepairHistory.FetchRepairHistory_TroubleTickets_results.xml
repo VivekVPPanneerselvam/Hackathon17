@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FetchRepairHistory_TroubleTickets"
+           tests="8"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="40.699">
+  <properties />
+  
+  
+            <testcase name="Valid_Error_message_Empty_CustomerAccountID" time="0.133" classname="service_FetchRepairHistory.FetchRepairHistory_TroubleTickets" />
+                <testcase name="Valid_Error_message_Null_RequestID" time="0.093" classname="service_FetchRepairHistory.FetchRepairHistory_TroubleTickets" />
+                <testcase name="FetchRepairHistory_Version" time="0.016" classname="service_FetchRepairHistory.FetchRepairHistory_TroubleTickets" />
+                <testcase name="Valid_Error_message_Empty_RequestID" time="0.129" classname="service_FetchRepairHistory.FetchRepairHistory_TroubleTickets" />
+                <testcase name="Valid_Error_message_No_HistoryResults" time="0.512" classname="service_FetchRepairHistory.FetchRepairHistory_TroubleTickets" />
+                <testcase name="Valid_Error_message_Problem_in_Connecting_TMS" time="31.292" classname="service_FetchRepairHistory.FetchRepairHistory_TroubleTickets" />
+                <testcase name="Valid_Error_message_Null_CustomerAccountID" time="0.188" classname="service_FetchRepairHistory.FetchRepairHistory_TroubleTickets" />
+                <testcase name="Fetching_HistoryDetails_From_TMS" time="8.336" classname="service_FetchRepairHistory.FetchRepairHistory_TroubleTickets" />
+      
+</testsuite>

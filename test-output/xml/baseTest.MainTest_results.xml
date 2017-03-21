@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest"
+           tests="19"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="8.479">
+  <properties />
+  
+  
+            <testcase name="Scenarios" time="0.300" classname="baseTest.MainTest" />
+                <testcase name="Scenarios" time="0.257" classname="baseTest.MainTest" />
+                <testcase name="Scenarios" time="0.284" classname="baseTest.MainTest" />
+                <testcase name="Scenarios" time="0.269" classname="baseTest.MainTest" />
+                <testcase name="Scenarios" time="0.322" classname="baseTest.MainTest" />
+                <testcase name="Scenarios" time="0.455" classname="baseTest.MainTest" />
+                <testcase name="Scenarios" time="0.313" classname="baseTest.MainTest" />
+                <testcase name="Scenarios" time="0.311" classname="baseTest.MainTest" />
+                <testcase name="Scenarios" time="0.257" classname="baseTest.MainTest" />
+                <testcase name="Scenarios" time="0.436" classname="baseTest.MainTest" />
+                <testcase name="Scenarios" time="0.514" classname="baseTest.MainTest" />
+                <testcase name="Scenarios" time="0.264" classname="baseTest.MainTest" />
+                <testcase name="Scenarios" time="0.320" classname="baseTest.MainTest" />
+                <testcase name="Scenarios" time="2.461" classname="baseTest.MainTest" />
+                <testcase name="Scenarios" time="0.322" classname="baseTest.MainTest" />
+                <testcase name="Scenarios" time="0.285" classname="baseTest.MainTest" />
+                <testcase name="Scenarios" time="0.436" classname="baseTest.MainTest" />
+                <testcase name="Scenarios" time="0.341" classname="baseTest.MainTest" />
+                <testcase name="Scenarios" time="0.332" classname="baseTest.MainTest" />
+      
+</testsuite>

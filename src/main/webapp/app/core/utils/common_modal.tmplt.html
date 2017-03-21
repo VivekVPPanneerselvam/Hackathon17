@@ -1,0 +1,16 @@
+<div>
+	<div class="modal-header {{headerClass}}">
+		<h3 class="modal-title"><i class="{{modalTitleClass}}"></i>&nbsp;&nbsp;{{modalTitle}}</h3>
+	</div>
+	<div class="modal-body">
+		<span>{{modalMsg}}</span>
+		<br data-ng-show="modalMsg2"></br>
+		<span>{{modalMsg2}}</span>
+		<br data-ng-show="modalMsg3"></br>
+		<span>{{modalMsg3}}</span>
+	</div>
+	<div class="modal-footer tac" style="background-color: white;">
+		<button class="md-button md {{buttonClass}}" type="button" data-ng-click="ok()">{{primaryBtnTxt}}</button>
+		<button class="md-button md {{buttonClass}}" type="button" data-ng-show="isReq" data-ng-click="cancel()">{{secondaryBtnTxt}}</button>
+	</div>
+</div>
