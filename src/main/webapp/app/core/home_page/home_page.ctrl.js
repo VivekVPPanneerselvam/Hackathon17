@@ -3,9 +3,9 @@
  */
 (function(){
 	stimulateApp.controller('homePageCtrl', homePageCtrl);
-	homePageCtrl.$inject = ['$location', '$scope'];
-	function homePageCtrl($location, $scope){
-		$scope.file = document.getElementById("file");
+	homePageCtrl.$inject = ['$location', '$scope', '$http'];
+	function homePageCtrl($location, $scope, $http){
+		$scope.file = document.getElementById("fileToUpload");
 		$scope.upload = upload;
 		
 		function upload(){

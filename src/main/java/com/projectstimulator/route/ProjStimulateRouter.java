@@ -9,6 +9,9 @@ public class ProjStimulateRouter extends RouteBuilder {
 	
 	@Override
 	public void configure() throws Exception {
+		
+		from("direct:firstRoute")
+		   .log("Camel body: ${body}");
 	 
 		 rest("/")
 	 	.consumes("application/json").produces("application/json")
